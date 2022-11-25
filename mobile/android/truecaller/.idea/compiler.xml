@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="truecaller.androidTest-shared" target="11" />
+      <module name="truecaller.app" target="11" />
+      <module name="truecaller.ar" target="11" />
+      <module name="truecaller.benchmark" target="11" />
+      <module name="truecaller.buildSrc" target="11" />
+      <module name="truecaller.buildSrc.main" target="11" />
+      <module name="truecaller.buildSrc.test" target="11" />
+      <module name="truecaller.data" target="11" />
+      <module name="truecaller.macrobenchmark" target="11" />
+      <module name="truecaller.mobile" target="11" />
+      <module name="truecaller.remote" target="11" />
+      <module name="truecaller.shared" target="11" />
+      <module name="truecaller.test-shared" target="11" />
+      <module name="truecaller.test-shared.main" target="11" />
+      <module name="truecaller.test-shared.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

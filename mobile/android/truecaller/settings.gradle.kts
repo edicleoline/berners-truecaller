@@ -1,0 +1,12 @@
+include(
+  ":mobile",
+  ":shared",
+  ":test-shared",
+  ":data",
+  ":model",
+  ":androidTest-shared",
+  "ar",
+  "benchmark",
+  "depconstraints",
+  ":macrobenchmark"
+)

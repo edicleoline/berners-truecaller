@@ -1,0 +1,26 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.berners.truecaller.data" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/home/berners/Documents/dev/android/berners/truecaller/data/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="30" />
+7-->/home/berners/Documents/dev/android/berners/truecaller/data/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+9-->/home/berners/Documents/dev/android/berners/truecaller/data/src/main/AndroidManifest.xml:5:1-75
+9-->/home/berners/Documents/dev/android/berners/truecaller/data/src/main/AndroidManifest.xml:5:18-72
+10    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+10-->/home/berners/Documents/dev/android/berners/truecaller/data/src/main/AndroidManifest.xml:6:1-72
+10-->/home/berners/Documents/dev/android/berners/truecaller/data/src/main/AndroidManifest.xml:6:18-69
+11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+11-->/home/berners/Documents/dev/android/berners/truecaller/data/src/main/AndroidManifest.xml:7:1-72
+11-->/home/berners/Documents/dev/android/berners/truecaller/data/src/main/AndroidManifest.xml:7:18-69
+12
+13    <application android:label="@string/app_name" >
+13-->/home/berners/Documents/dev/android/berners/truecaller/data/src/main/AndroidManifest.xml:9:1-12:15
+13-->/home/berners/Documents/dev/android/berners/truecaller/data/src/main/AndroidManifest.xml:9:14-46
+14    </application>
+15
+16</manifest>

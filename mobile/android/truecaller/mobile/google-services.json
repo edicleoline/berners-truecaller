@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626659705344",
+    "project_id": "berners-truecaller",
+    "storage_bucket": "berners-truecaller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626659705344:android:e31827aa0158f791944ee5",
+        "android_client_info": {
+          "package_name": "com.berners.truecaller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626659705344-glulth5h5q2t9veloao85evt3vcqg17f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtD7GdjxPIVeZBpPeIqTgSxRqW6YvX_hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626659705344-glulth5h5q2t9veloao85evt3vcqg17f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

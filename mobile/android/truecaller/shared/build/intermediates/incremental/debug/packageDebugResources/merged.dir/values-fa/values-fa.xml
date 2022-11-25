@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="day0">روز قبل</string>
+    <string name="day0_day_date">دوشنبه، ۶ مه</string>
+    <string name="day1">روز اول</string>
+    <string name="day1_date">۷ مه</string>
+    <string name="day1_day_date">سه‌شنبه، ۷ مه</string>
+    <string name="day2">روز دوم</string>
+    <string name="day2_date">۸ مه</string>
+    <string name="day2_day_date">چهارشنبه، ۸ مه</string>
+    <string name="day3">روز سوم</string>
+    <string name="day3_date">۹ مه</string>
+    <string name="day3_day_date">پنج‌شنبه، ۹ مه</string>
+    <string name="feature_explore_io">کاوش I/O</string>
+</resources>

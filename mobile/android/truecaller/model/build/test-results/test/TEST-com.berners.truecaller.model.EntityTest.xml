@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.berners.truecaller.model.EntityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-04T13:56:33" hostname="berners-Samus" time="0.029">
+  <properties/>
+  <testcase name="entity_lastname" classname="com.berners.truecaller.model.EntityTest" time="0.029"/>
+  <system-out><![CDATA[Oliveira
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

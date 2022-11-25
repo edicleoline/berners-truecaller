@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="theme_cardColor" format="color">
+    </attr>
+    <attr name="theme_statusBarColor" format="color">
+    </attr>
+    <attr name="theme_textColorPlaceholder" format="color">
+    </attr>
+    <attr name="theme_textColorPrimary" format="color">
+    </attr>
+    <attr name="theme_textColorSecondary" format="color">
+    </attr>
+    <attr name="theme_textColorTertiary" format="color">
+    </attr>
+    <attr name="theme_avatarForegroundColor" format="color">
+    </attr>
+
+    <attr name="tcx_textSecondary" format="color"></attr>
+    <attr name="tcx_brandBackgroundBlue" format="color"></attr>
+    <attr name="tcx_backgroundPrimary" format="color"></attr>
+    <attr name="tcx_alertBackgroundGreen" format="color"></attr>
+    <attr name="tcx_textPrimary" format="color"></attr>
+    <attr name="tcx_textTertiary" format="color"></attr>
+    <attr name="tcx_avatarTextBlue" format="color"></attr>
+</resources>

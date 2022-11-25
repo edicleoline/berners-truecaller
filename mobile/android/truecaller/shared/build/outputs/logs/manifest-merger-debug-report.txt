@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:3:1-40
+		INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml
+		INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:5:1-75
+	android:name
+		ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:5:18-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:6:1-72
+	android:name
+		ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:6:18-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:7:1-72
+	android:name
+		ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:7:18-69
+application
+ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:9:1-22:15
+	android:label
+		ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:9:14-46
+service#com.berners.truecaller.shared.fcm.TruecallerFirebaseMessagingService
+ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:14:5-20:15
+	android:exported
+		ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:15:9-63
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:17:9-19:25
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:18:13-74
+	android:name
+		ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml:18:21-71
+uses-sdk
+INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml
+INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml
+INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml
+INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml
+		ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml
+		INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml
+		ADDED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml
+		INJECTED from /home/berners/Documents/dev/android/berners/truecaller/shared/src/main/AndroidManifest.xml

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Platform.Theme.Truecaller" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+
+    <style name="Theme.Truecaller" parent="Platform.Theme.Truecaller">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_200</item>
+        <item name="colorAccent">@color/purple_700</item>
+    </style>
+
+    <style name="Theme.Truecaller.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDisablePreview">true</item>
+<!--        <item name="android:windowFullscreen">true</item>-->
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="Theme.Truecaller.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+
+    <style name="Theme.Truecaller.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light" />
+
+
+
+
+    <style name="Theme.Truecaller.Transparent">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Widget">
+    </style>
+
+    <style name="Widget.Truecaller">
+    </style>
+
+    <style name="Widget.Truecaller.Toolbar">
+        <item name="android:background">?attr/theme_cardColor</item>
+    </style>
+
+    <style name="Theme.Truecaller.Transparent.X">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">@bool/translucent_window_enabled</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.Truecaller.Splash" parent="Theme.Truecaller.NoActionBar">
+        <item name="android:windowBackground">@color/ss_bg</item>
+    </style>
+</resources>

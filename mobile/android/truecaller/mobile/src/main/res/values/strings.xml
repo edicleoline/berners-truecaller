@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Truecaller</string>
+    <string name="firebase_auth_no_network_connection" translation_description="Snackbar message when there is no network connectivity.">No internet connection</string>
+    <string name="firebase_auth_unknown_error" translation_description="Snackbar message when Firebase Auth has an unknown error.">Unknown error</string>
+
+    <string name="home_calls">Chamadas</string>
+    <string name="home_messages">Mensagens</string>
+    <string name="home_contacts">Contatos</string>
+    <string name="home_premium">Premium</string>
+
+    <string name="main_search">Pesquisar números, nomes e mais</string>
+
+    <string name="yesterday">Ontem</string>
+    <string name="monday">segunda-feira</string>
+    <string name="tuesday">terça-feira</string>
+    <string name="wednesday">quarta-feira</string>
+    <string name="thursday">quinta-feira</string>
+    <string name="friday">sexta-feira</string>
+    <string name="saturday">sábado</string>
+    <string name="sunday">domingo</string>
+
+    <string name="missed_call">Chamada perdida</string>
+    <string name="blocked_call">Bloqueado</string>
+
+    <string name="tab_all_calls">Todas</string>
+    <string name="tab_outgoing_calls">Efetuadas</string>
+    <string name="tab_incoming_calls">Recebidas</string>
+    <string name="tab_missed_calls">Perdidas</string>
+    <string name="tab_blocked_calls">Bloqueadas</string>
+
+
+
+</resources>
